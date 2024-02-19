@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pascal-y
+- 👋 Hi, I’m Dev Pascal-Y @Pascal-y
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning object oriented programming
 - 💞️ I’m looking to collaborate on github
